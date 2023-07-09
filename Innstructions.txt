@@ -1,0 +1,21 @@
+IDO Application User Guide
+
+---> Introduction:
+The IDO application is a task management system that helps you organize your tasks efficiently. 
+This user guide provides instructions on how to run the IDO application.
+
+---> System Requirements:
+
+Node.js (version 12 or higher)
+Angular CLI (version 12 or higher)
+.NET Core SDK (version 3.1 or higher)
+SQL Server (version 2016 or higher)
+
+---> Installation Steps:
+ 
+   1) Clone the Repository:
+
+      1.1) Open a terminal or command prompt.
+      1.2) Run the following command to clone the backend repository: git clone https://github.com/{YOUR_USERNAME}/backendForIDO.git
+
+   2) 
